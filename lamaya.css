@@ -1,0 +1,55 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1 {
+  font-size: 55px;
+}
+
+
+h3 {
+  font-size: 30px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+#mainsection {
+    font-family: Arial;
+    font-weight: lighter;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+td {
+    padding: 10px;
+}
+
+/* unvisited link */
+a:link {
+    color: green;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: blue;
+  }
+  
+  /* selected link */
+  a:active {
+    color: hotpink;
+  }
+
