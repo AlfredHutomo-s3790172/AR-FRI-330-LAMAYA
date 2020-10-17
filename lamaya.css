@@ -1,60 +1,66 @@
 p {
-    font-family: Arial, Helvetica, sans-serif;
-    
+   font-family: Arial, Helvetica, sans-serif;
 }
 
-.p1{
-  font-family: Arial, Helvetica, sans-serif;
-  text-align: justify;
-}
-
-h1 {
-  font-size: 55px;
-}
-
-
-h3 {
-  font-size: 30px;
+.p1 {
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: justify;
 }
 
 table {
-    margin-left: auto;
-    margin-right: auto; 
+   margin-left: auto;
+   margin-right: auto;
 }
 
 body {
-    text-align: center;
-    background-color: beige;
+   text-align: center;
+   background-color: beige;
 }
 
 #mainsection {
-    font-family: Arial;
-    font-weight: lighter;
-    padding-left: 20%;
-    padding-right: 20%;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: lighter;
+   padding-left: 20%;
+   padding-right: 20%;
+}
+
+.main-content {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: lighter;
+}
+
+.main-content ul {
+   margin: 0;
+   padding: 0;
+   list-style: none;
+}
+
+.main-content p {
+   margin-left: auto;
+   margin-right: auto;
+   width: 800px;
 }
 
 td {
-    padding: 10px;
+   padding: 10px;
 }
 
 /* unvisited link */
 a:link {
-    color: green;
-  }
-  
-  /* visited link */
-  a:visited {
-    color: green;
-  }
-  
-  /* mouse over link */
-  a:hover {
-    color: blue;
-  }
-  
-  /* selected link */
-  a:active {
-    color: hotpink;
-  }
+   color: green;
+}
 
+/* visited link */
+a:visited {
+   color: green;
+}
+
+/* mouse over link */
+a:hover {
+   color: blue;
+}
+
+/* selected link */
+a:active {
+   color: hotpink;
+}
